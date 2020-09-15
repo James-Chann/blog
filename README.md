@@ -1,10 +1,8 @@
 # README
 
-## 小程故事
+## 蝉時雨
 
 [![Author](https://img.shields.io/badge/author-chanshiyucx-blue.svg?style=flat-square)](https://chanshiyu.com) [![Email](https://img.shields.io/badge/Email%20me-me@chanshiyu.com-green.svg?style=flat-square)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=tNnR9Nfc1drH3N3NwZrX29k)
-
-[![Chanshiyu's github stats](https://github-readme-stats.vercel.app/api?username=chanshiyucx)](https://github.com/anuraghazra/github-readme-stats)
 
 Code is Long, Life is Short.
 
@@ -12,16 +10,20 @@ Code is Long, Life is Short.
 
 | 目录 | 描述                                                                  |
 | :--- | :-------------------------------------------------------------------- |
-| 设计 | UI设计，记录设计方面的知识的总结                                     |
+| 時雨 | 日常博文，记录自己工作与生活中的那点小事                              |
 | 书斋 | 读书笔记，摘要读书过程中的知识要点和想法感悟                          |
 | 前端 | 前端知识库，包括且不限于 JavaScript、Nodejs、React、Vue 等知识总结    |
 | 后端 | 后端知识库，包括且不限于 Java、Spring、Linux、MySQL、Nginx 等知识总结 |
 | 采集 | 优秀的博客文章或资料，采集以备之后学习                                |
 
-❤️💛💚💙💜💕💞💓💗💖💘💝❣❤
-
-- [README](README.md)
-- 设计
+- 時雨
+  - 2017
+    - [01 网站动态标题的两种方式](時雨/2017/01-网站动态标题的两种方式.md)
+    - [02 RN App 外部唤醒踩坑记](時雨/2017/02-RN-App-外部唤醒踩坑记.md)
+  - 2018
+    - [01 不一样の烟火](時雨/2018/01-不一样の烟火.md)
+    - [02 Python 之禅](時雨/2018/02-Python-之禅.md)
+    - [03 Python 文件操作](時雨/2018/03-Python-文件操作.md)
   - 2019
     - [01 Aurora 食用指南](時雨/2019/01-Aurora-食用指南.md)
     - [02 Godaddy 域名找回记事](時雨/2019/02-Godaddy-域名找回记事.md)
@@ -29,23 +31,17 @@ Code is Long, Life is Short.
     - [04 SpringMVC 前后端传参协调](時雨/2019/04-SpringMVC-前后端传参协调.md)
     - [05 主题集成友链访问统计功能](時雨/2019/05-主题集成友链访问统计功能.md)
     - [06 Github Style 博客主题](時雨/2019/06-Github-Style-博客主题.md)
-    - [07 字符编码の小常识](時雨/2019/07-字符编码の小常识.md)
-    - [08 WSL 安装 Docker 实录](時雨/2019/08-WSL-安装-Docker-实录.md)
-    - [09 Eriri comic reader](時雨/2019/09-Eriri-comic-reader.md)
-    - [10 微服务之所见](時雨/2019/10-微服务之所见.md)
-    - [11 Aurora 2.0](時雨/2019/11-Aurora-2.0.md)
-    - [12 jsDelivr 全站托管](時雨/2019/12-jsDelivr-全站托管.md)
-    - [13 两年工作台变迁史](時雨/2019/13-两年工作台变迁史.md)
+    - [07 字符编码の小常识](時雨/2019/12-字符编码の小常识.md)
+    - [08 WSL 安装 Docker 实录](時雨/2019/13-WSL-安装-Docker-实录.md)
+    - [09 Eriri comic reader](時雨/2019/14-Eriri-comic-reader.md)
+    - [10 微服务之所见](時雨/2019/15-微服务之所见.md)
+    - [11 Aurora 2.0](時雨/2019/16-Aurora-2.0.md)
+    - [12 jsDelivr 全站托管](時雨/2019/17-jsDelivr-全站托管.md)
+    - [13 两年工作台变迁史](時雨/2019/18-两年工作台变迁史.md)
     - [14 春物](時雨/2019/14-春物.md)
-    - [15 一种优雅の笔记方式](時雨/2019/15-一种优雅の笔记方式.md)
+    - [15 一种优雅の笔记方式](時雨/2020/15-一种优雅の笔记方式.md)
   - 2020
     - [01 Telegram 电报机器人](時雨/2020/01-Telegram-电报机器人.md)
-    - [02 她的眼里有星辰](時雨/2020/02-她的眼里有星辰.md)
-    - [03 文心雕龙](時雨/2020/03-文心雕龙.md)
-    - [04 和木子交换问题](時雨/2020/04-和木子交换问题.md)
-    - [05 Telegram RSS 订阅频道](時雨/2020/05-Telegram-RSS-订阅频道.md)
-    - [06 水月雨银色飞船](時雨/2020/06-水月雨-银色飞船.md)
-    - [07 五年前旧照](時雨/2020/07-五年前旧照.md)
 - 书斋
   - ES6 标准入门
     - [01 变量声明与解构赋值](书斋/ES6-标准入门/01-变量声明与解构赋值.md)
@@ -62,8 +58,6 @@ Code is Long, Life is Short.
     - [02 设计模式（上）](书斋/JavaScript-设计模式/02-设计模式（上）.md)
     - [03 设计模式（下）](书斋/JavaScript-设计模式/03-设计模式（下）.md)
     - [04 设计原则和编程技巧](书斋/JavaScript-设计模式/04-设计原则和编程技巧.md)
-  - 技术文摘
-    - [01 基于消息队列的分布式事务解决方案](书斋/技术文摘/01-基于消息队列的分布式事务解决方案.md)
 - 前端
   - JavaScript
     - [01 JavaScript 秘密花园](前端/JavaScript/01-JavaScript-秘密花园.md)
@@ -73,7 +67,7 @@ Code is Long, Life is Short.
     - [05 Blob Url And Data Url](前端/JavaScript/05-Blob-Url-And-Data-Url.md)
     - [06 函数节流与函数防抖](前端/JavaScript/06-函数节流与函数防抖.md)
     - [07 排序算法初探](前端/JavaScript/07-排序算法初探.md)
-    - [08 洗牌算法实现数组乱序](前端/JavaScript/08-洗牌算法实现数组乱序.md)
+    - [08 洗牌算法实现数组乱序](時雨/JavaScript/08-洗牌算法实现数组乱序.md)
   - CSS
     - [01 Flex 弹性布局](前端/CSS/01-Flex-弹性布局.md)
     - [02 Position 定位](前端/CSS/02-Position-定位.md)
@@ -97,52 +91,57 @@ Code is Long, Life is Short.
     - [02 Vue 构建项目写入配置文件](前端/Vue/02-Vue-构建项目写入配置文件.md)
     - [03 Vue 项目引入 SVG 图标](前端/Vue/03-Vue-项目引入-SVG-图标.md)
     - [04 Vue 一键导出 PDF](前端/Vue/04-Vue-一键导出-PDF.md)
-    - [05 动态可响应对象](前端/Vue/05-动态可响应对象.md)
   - 实战系列
     - [01 WebSocket 心跳重连机制](前端/实战系列/01-WebSocket-心跳重连机制.md)
     - [02 图片加解密二三事](前端/实战系列/02-图片加解密二三事.md)
     - [03 优雅实现 BackTop](前端/实战系列/03-优雅实现-BackTop.md)
     - [04 动态加载 JS 文件](前端/实战系列/04-动态加载-JS-文件.md)
 - 后端
-
   - Java
     - [01 面向对象基本特征与原则](后端/Java/01-面向对象基本特征与原则.md)
     - [02 Java 数据类型](后端/Java/02-Java-数据类型.md)
     - [03 Java String](后端/Java/03-Java-String.md)
-    - [04 Java 只有值传递](后端/Java/04-Java-只有值传递.md)
-    - [05 Java final 与 static](后端/Java/05-Java-final-与-static.md)
-    - [06 Java Object 通用方法](后端/Java/06-Java-Object-通用方法.md)
-    - [07 Java 继承](后端/Java/07-Java-继承.md)
-    - [08 Java 反射](后端/Java/08-Java-反射.md)
-    - [09 Java 异常](后端/Java/09-Java-异常.md)
-    - [10 Java 容器](后端/Java/10-Java-容器.md)
-    - [11 Java 虚拟机](后端/Java/11-Java-虚拟机.md)
-    - [12 Java IO](后端/Java/12-Java-IO.md)
-    - [13 Java HashMap](后端/Java/13-Java-HashMap.md)
-    - [14 Java List](后端/Java/14-Java-List.md)
-    - [15 Java Stream](后端/Java/15-Java-Stream.md)
-    - [16 Java 枚举](后端/Java/16-Java-枚举.md)
-    - [17 Java 日期与时间](后端/Java/17-Java-日期与时间.md)
-    - [18 Java fail fast](后端/Java/18-Java-fail-fast.md)
-  - 实战系列
-    - [01 AES CBC 加解密](后端/实战系列/01-AES-CBC-加解密.md)
-    - [02 Magic 魔数获取文件类型](后端/实战系列/02-Magic-魔数获取文件类型.md)
-    - [03 获取请求 IP 地址](后端/实战系列/03-获取请求IP地址.md)
-    - [04 Kaptcha 与数学公式验证码](后端/实战系列/04-Kaptcha-与数学公式验证码.md)
-    - [05 Netty 获取客户端 IP.md](后端/实战系列/05-Netty-获取客户端IP.md)
-    - [06 高性能无锁队列 Disruptor.md](后端/实战系列/06-高性能无锁队列-Disruptor.md)
-    - [07 前后端接入阿里云盾](后端/实战系列/07-前后端接入阿里云盾.md)
+    - [04 Java 访问权限](后端/Java/04-Java-访问权限.md)
+    - [05 Java 抽象类与接口](后端/Java/05-Java-抽象类与接口.md)
+    - [06 Java 重写与重载](后端/Java/06-Java-重写与重载.md)
+    - [07 Java 只有值传递](后端/Java/07-Java-只有值传递.md)
+    - [08 Java super](后端/Java/08-Java-super.md)
+    - [09 Java Object 通用方法](后端/Java/09-Java-Object-通用方法.md)
+    - [10 Java final 与 static](后端/Java/10-Java-final-与-static.md)
+    - [11 Java 反射](后端/Java/11-Java-反射.md)
+    - [12 Java 异常](后端/Java/12-Java-异常.md)
+    - [13 Java 容器](后端/Java/13-Java-容器.md)
+    - [14 Java HashMap](后端/Java/14-Java-HashMap.md)
+    - [15 Java HashMap 面试大全](后端/Java/15-Java-HashMap-面试大全.md)
+    - [16 ArrayList 和 LinkedList](后端/Java/16-ArrayList-和-LinkedList.md)
+    - [17 Java fail fast](后端/Java/17-Java-fail-fast.md)
+    - [18 Java 并发](后端/Java/18-Java-并发.md)
+    - [19 Java 内存模型](后端/Java/19-Java-内存模型.md)
+    - [20 Java 虚拟机](后端/Java/20-Java-虚拟机.md)
+    - [21 Java 类加载机制](后端/Java/21-Java-类加载机制.md)
+    - [22 Java IO](后端/Java/22-Java-IO.md)
+    - [23 Java Stream](后端/Java/23-Java-Stream.md)
+    - [24 30 seconds of java8](后端/Java/24-30-seconds-of-java8.md)
+    - [25 函数式替代 for 循环](后端/Java/25-函数式替代-for-循环.md)
+    - [26 单例模式的几种实现](后端/Java/26-单例模式的几种实现.md)
+    - [27 BloomFilter 判断元素存在](后端/Java/27-BloomFilter-判断元素存在.md)
+    - [28 LRU 缓存淘汰算法](后端/Java/28-LRU-缓存淘汰算法.md)
+    - [29 经典排序算法](后端/Java/29-经典排序算法.md)
+    - [30 Java 字符串拼接](后端/Java/30-Java-字符串拼接.md)
+    - [31 Java 服务端分层模型](后端/Java/31-Java-服务端分层模型.md)
+    - [32 Java 日期与时间](后端/Java/32-Java-日期与时间.md)
+    - [33 Java Servlet](后端/Java/33-Java-Servlet.md)
   - Spring
     - [01 Spring Boot](后端/Spring/01-Spring-Boot.md)
     - [02 Spring Validation](后端/Spring/02-Spring-Validation.md)
     - [03 Spring Data](后端/Spring/03-Spring-Data.md)
     - [04 Spring 容器](后端/Spring/04-Spring-容器.md)
-    - [05 Spring AOP](后端/Spring/05-Spring-AOP.md)
     - [07 Spring Transactional 注解](后端/Spring/07-Spring-Transactional-注解.md)
     - [08 Spring Cloud Netflix](后端/Spring/08-Spring-Cloud-Netflix.md)
     - [09 Spring Cloud Alibaba](后端/Spring/09-Spring-Cloud-Alibaba.md)
     - [10 Spring Security oAuth2](后端/Spring/10-Spring-Security-oAuth2.md)
     - [11 Spring Boot 请求拦截](后端/Spring/11-Spring-Boot-请求拦截.md)
+    - [12 Spring Boot Aspect](后端/Spring/12-Spring-Boot-Aspect.md)
     - [13 Spring Boot 异步编程](后端/Spring/13-Spring-Boot-异步编程.md)
     - [14 Spring Boot 定时任务](后端/Spring/14-Spring-Boot-定时任务.md)
     - [15 Spring Boot 管理 bean](后端/Spring/15-Spring-Boot-管理-bean.md)
@@ -150,17 +149,13 @@ Code is Long, Life is Short.
     - [17 JWT](后端/Spring/17-JWT.md)
     - [18 JPA](后端/Spring/18-JPA.md)
     - [19 Apache Shiro](后端/Spring/19-Apache-Shiro.md)
-    - [20 Spring 异步请求](后端/Spring/20-Spring-异步请求.md)
-  - MySQL
-    - [01 MySQL](后端/MySQL/01-MySQL.md)
-    - [02 SQL 语句 where 1=1](后端/MySQL/02-SQL语句where1=1.md)
-    - [03 truncate 和 delete](后端/MySQL/03-truncate和delete.md)
-    - [04 事务](后端/MySQL/04-事务.md)
-    - [05 关系模型](后端/MySQL/05-关系模型.md)
-    - [06 Mybatis](后端/MySQL/06-Mybatis.md)
-  - Nginx
-    - [01 Nginx 指北](后端/Nginx/01-Nginx-指北.md)
-    - [02 常用端口](后端/Nginx/02-常用端口.md)
+  - Mysql
+    - [01 MySQL](后端/Mysql/01-MySQL.md)
+    - [02 SQL 语句 where 1=1](后端/Mysql/02-SQL语句where1=1.md)
+    - [03 truncate 和 delete](后端/Mysql/03-truncate和delete.md)
+    - [04 实用 SQL](后端/Mysql/04-实用SQL.md)
+    - [05 事务](后端/Mysql/05-事务.md)
+    - [06 一些文档](后端/Mysql/06-一些文档.md)
   - Netty
     - [01 BIO、NIO、AIO](后端/Netty/01-BIO、NIO、AIO.md)
     - [02 Netty Server](后端/Netty/02-Netty-Server.md)
@@ -176,27 +171,30 @@ Code is Long, Life is Short.
     - [06 Lombok](后端/Note/06-Lombok.md)
     - [07 Swagger](后端/Note/07-Swagger.md)
     - [08 Redis](后端/Note/08-Redis.md)
-    - [09 面试指南](后端/Note/09-面试指南.md)
-    - [10 IDEA 高效指南](后端/Note/10-IDEA-高效指南.md)
-  - Linux
-    - [01 Linux 文件权限系统](后端/Linux/01-Linux-文件权限系统.md)
-    - [02 Linux 常用软件安装](后端/Linux/02-Linux-常用软件安装.md)
-    - [03 CentOS 防火墙](后端/Linux/03-CentOS-防火墙.md)
+    - [09 Mybatis](后端/Note/09-Mybatis.md)
+    - [10 Linux](后端/Note/10-Linux.md)
+    - [11 Linux 常用软件安装](后端/Note/11-Linux-常用软件安装.md)
+    - [12 CentOS 防火墙](后端/Note/12-CentOS-防火墙.md)
+    - [13 Nginx 指北](后端/Note/13-Nginx-指北.md)
+    - [14 HTTP 状态码详解](后端/Note/14-HTTP-状态码详解.md)
+    - [15 Cookie 和 Session](后端/Note/15-Cookie-和-Session.md)
+  - 实战系列
+    - [01 AES CBC 加解密](后端/实战系列/01-AES-CBC-加解密.md)
+    - [02 Magic 魔数获取文件类型](后端/实战系列/02-Magic-魔数获取文件类型.md)
+    - [03 获取请求 IP 地址](后端/实战系列/03-获取请求IP地址.md)
+    - [04 Kaptcha 与数学公式验证码](后端/实战系列/04-Kaptcha-与数学公式验证码.md)
   - Project
     - [01 微信点餐系统](后端/Project/01-微信点餐系统.md)
     - [02 Docker FastDFS](后端/Project/02-Docker-FastDFS.md)
     - [03 Docker RocketMQ](后端/Project/03-Docker-RocketMQ.md)
     - [04 Moemall Admin Snippets](后端/Project/04-Moemall-Admin-Snippets.md)
     - [05 Netty 聊天系统](后端/Project/05-Netty-聊天系统.md)
-
 - 采集
   - 文档
     - [01 Git 文档](https://git-scm.com/book/zh/v2)
     - [02 Mybatis 官方文档](https://mybatis.org/mybatis-3/zh/index.html)
     - [03 Linux 命令大全](https://man.linuxde.net/)
     - [04 Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/)
-    - [05 Hutool](https://hutool.cn/docs)
-    - [06 Redis 命令中心](http://www.redis.cn/commands.html)
   - 文章
     - [01 七天学会 NodeJS](https://nqdeng.github.io/7-days-nodejs/)
     - [02 Fisher–Yates Shuffle](https://bost.ocks.org/mike/shuffle/)
@@ -210,14 +208,13 @@ Code is Long, Life is Short.
     - [06 Java3y](https://github.com/ZhongFuCheng3y/3y)
   - 工具
     - [01 IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/keymap-introduce.md)
-    - [02 Nginx Config](https://www.digitalocean.com/community/tools/nginx)
-    - [03 JWT](https://jwt.io/)
-    - [04 Spring Initializr](https://start.spring.io/)
-    - [05 Table Convert](https://tableconvert.com/)
-    - [06 ProcessOn](https://www.processon.com)
-    - [07 Flat Icon](https://www.flaticon.com/)
-    - [08 Regexper](https://regexper.com/)
-    - [09 Toyaml](https://www.toyaml.com/index.html)
-    - [10 TempMail](https://temp-mail.org/zh/)
-    - [11 Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-    - [12 Carbon](https://carbon.now.sh/)
+    - [02 Hutool](https://github.com/looly/hutool/)
+    - [03 Nginx Config](https://www.digitalocean.com/community/tools/nginx)
+    - [04 JWT](https://jwt.io/)
+    - [05 Spring Initializr](https://start.spring.io/)
+    - [06 Table Convert](https://tableconvert.com/)
+    - [07 ProcessOn](https://www.processon.com)
+    - [08 Flat Icon](https://www.flaticon.com/)
+    - [09 Regexper](https://regexper.com/)
+    - [10 Toyaml](https://www.toyaml.com/index.html)
+    - [11 TempMail](https://temp-mail.org/zh/)
