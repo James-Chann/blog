@@ -7,6 +7,6 @@ git add -A
 git commit -m 'update'
 
 # 部署到 https://<USERNAME>.github.io
-git push -f https://github.com/James-Chann/blog.git master
+git push -f https://github.com/JamesChann/blog.git master
 
 cd -
